@@ -1,0 +1,4 @@
+图标放在Administrator中（我的文档）中
+命令行输入：
+F:\anaconda\Scripts\pyinstaller.exe -F -w -i myico.ico C:\Users\Administrator\Desktop\学习资料\medicine_select\select_hospital.py
+然后去C:\Users\Administrator\dist里找
