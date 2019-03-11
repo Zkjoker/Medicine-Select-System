@@ -17,5 +17,4 @@ F:\anaconda\Scripts\pyinstaller.exe -F -w -i myico.ico C:\Users\Administrator\De
 After that you can find the select_hospital.exe in the C:\Users\Administrator\dist.<br><br> 
 6. Of course you can improve the program and make it better, for example user can input the medicine's location or delete it in  exe file rather than in txt file. I don't have power to do it because it isn't my research direction.<br><br>
 
-## License
-All is allowable.
+
